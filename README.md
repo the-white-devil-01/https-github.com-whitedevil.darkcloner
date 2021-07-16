@@ -2,6 +2,7 @@ My name is Mohammad Yasin (White devil)
 This is my first tool and it on Facebook account clining
 This is to clone Facebook accounts
 Install code;
+
 apt update && apt upgrade
 pkg install git
 pkg install python
