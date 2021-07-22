@@ -39,4 +39,4 @@ Dark Cloner is a python based Tools, Its used to clone Facebook accounts
 
 
 ## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education T33kayX will not be responsible in such cases.***
+***This tool is only for educational purpose. If you use this tool for other purposes except education White Devil will not be responsible in such cases.***
