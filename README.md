@@ -13,7 +13,7 @@ Dark Cloner is a python based Tools, Its used to clone Facebook accounts
 ### REQUIREMENTS :
 * internet
 * external storage permission
-
+* python,requests and requirements 
 
 
 ## INSTALLATION [Termux] :
