@@ -1,6 +1,6 @@
 
 ## ABOUT TOOL
-Dark Cloner is a python based Tools installer Tool, Its used to clone Facebook accounts
+Dark Cloner is a python based Tools, Its used to clone Facebook accounts
 
 ## AVAILABLE ON :
 
@@ -30,7 +30,7 @@ Dark Cloner is a python based Tools installer Tool, Its used to clone Facebook a
 * `cd dark-cloner`
 * `ls`
 * `pip install -r requirements.txt`
-* `python dark-cloner.py
+* `python dark-cloner.py`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
@@ -39,4 +39,4 @@ Dark Cloner is a python based Tools installer Tool, Its used to clone Facebook a
 
 
 ## WARNING : 
-***This tool is only for educational purpose. If you use this tool for other purposes except education T33kayX will not be responsible in such cases.***
+***This tool is only for educational purpose. If you use this tool for other purposes except education White Devil will not be responsible in such cases.***
